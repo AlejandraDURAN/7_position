@@ -1,0 +1,31 @@
+body{ 
+margin:0;
+padding:0;
+ }
+
+*{
+	width:200px;
+	height:200px;
+	position: absolute;
+}
+
+.red{
+	background-color:red;
+	
+}
+
+.blue{
+	background-color:blue;
+	left: 821px;	
+}
+
+.green{
+	background-color: green;
+	top:600px;
+}
+
+.black{
+	background-color: black;
+	left:821px;	
+}
+
